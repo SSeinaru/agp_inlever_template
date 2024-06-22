@@ -1,11 +1,12 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Rift Guardian]
+Project team: Devil's Luck
+
 
 Platform:
-[jullie platfom]
+Unreal Engine
 
 ### Korte omschrijving van de game
-...
+First person VR wave shooter 
 
 ---
 #### Producten Werkproces 1

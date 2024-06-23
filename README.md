@@ -1,4 +1,4 @@
-## [Rift Guardian]
+## Rift Guardian
 Project team: Devil's Luck
 
 
@@ -37,10 +37,10 @@ First person VR wave shooter
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://unreal-academy.codecks.io/decks/>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [Logboek]: <https://github.com/SSeinaru/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp/card/5a7-game-concept>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   [RetrospectiveVerslagen]: <https://github.com/SSeinaru/agp_inlever_template/blob/master/producten/Retrospective_Verslag.pdf>
+   [ReviewVerslagen]: <https://github.com/SSeinaru/agp_inlever_template/blob/master/producten/Sprint_Review_verslag.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [Folder op teams]: <https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj>
    

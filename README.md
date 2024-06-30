@@ -41,5 +41,5 @@ First person VR wave shooter
    [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp/card/5a7-game-concept>
    [RetrospectiveVerslag]: <https://github.com/SSeinaru/agp_inlever_template/blob/master/producten/Retrospective_Verslag.pdf>
    [ReviewVerslag]: <https://github.com/SSeinaru/agp_inlever_template/blob/master/producten/Sprint_Review_verslag.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
+   [Prototype]: <https://github.com/SSeinaru/TheRiftGuardian/releases/tag/v1.0.0>
    [Playlist Van Videos]: <https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj>
